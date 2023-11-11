@@ -1,4 +1,5 @@
 module.exports = {
+  ignorePatterns: ['dist/'],
   env: {
     browser: true, // This project runs in a browser environment
     es2021: true, // This project uses ECMAScript 2021 syntax
